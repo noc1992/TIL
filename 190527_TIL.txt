@@ -1,4 +1,4 @@
-##TIL
+﻿##TIL
 
 Today I Learned.
 
@@ -10,4 +10,5 @@ Today I Learned.
 
 
 TodayILearn에는 오늘 학습한 내용을 올립니다. 
-조금 수정
+조금 수정하고 난 뒤 집에서 재수정
+
